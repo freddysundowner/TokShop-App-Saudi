@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "594987824533",
+    "project_id": "saudi-4c25c",
+    "storage_bucket": "saudi-4c25c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:594987824533:android:dbeee5ca73c9b6eaa9b29c",
+        "android_client_info": {
+          "package_name": "com.dakkh.live"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "594987824533-faepv6qceheme8fl4mvjaash9sad5huu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCXmXuQryGoB2CVlDhjLHc3f9rJFjOOaQA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "594987824533-89u0ir7v8cu8dlmaa496abbb434mo8cf.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "594987824533-k9dpf1g2q76uc42e92e2ua5rfk9ele8l.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.saudi.saudi.live.com"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
