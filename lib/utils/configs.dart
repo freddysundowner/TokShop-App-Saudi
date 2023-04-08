@@ -1,4 +1,4 @@
-var baseUrl = "https://tokshopping.live";
+var baseUrl = "https://api.dakkh.com";
 var isDev = true;
 var appName = "TokShop";
 var agoraAppID = "";
@@ -7,7 +7,7 @@ var oneSignalAppID = "";
 var currencySymbol = "";
 var currencyName = "Wallet balance ";
 var imageplaceholder = "assets/images/image_placeholder.jpg";
-var deepLinkUriPrefix = "https://tokshoplive.page.link";
+var deepLinkUriPrefix = "https://dakkh.page.link";
 var packagename = "com.dakkh.live";
 var iosAppID = "1630634917";
 var applicationFee = 0.0;
